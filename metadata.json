@@ -1,0 +1,5 @@
+{
+  "name": "Trình tạo hóa đơn tiền trọ",
+  "description": "Ứng dụng xuất hóa đơn tiền trọ hàng loạt từ dữ liệu Google Sheet. Nhập liên kết trang tính, chọn vùng dữ liệu và tạo hóa đơn nhanh chóng.",
+  "requestFramePermissions": []
+}
